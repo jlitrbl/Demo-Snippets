@@ -1,0 +1,37 @@
+{
+	"email": "jeremy.lee+mathnasium@iterable.com",
+	"dataFields": {
+		"firstName": "Jeremy",
+		"lastName": "Lee",
+		"phoneNumber": "7026722723",
+		"locale": "en",
+		"city": "Denver",
+		"state": "Colorado",
+		"zip": "80202",
+		"center": "Cherry Creek",
+		"signupStatus": {
+			"hasConfirmedEmail": true,
+			"hasConfirmedPhoneNumber": true,
+			"hasPaidMembership": false,
+			"hasLinkedBank": false
+
+		},
+		"childInformation": {
+			"grade": "3",
+			"attitude": "like math",
+			"struggling": ["word problems", "measurement", "fractions"],
+			"stress": true,
+			"goals": ["improve test grades", "improve class grades", "give them an edge to get into the best schools"]
+
+		},
+		"surveyFilledOut": [{
+				"category": "interest",
+				"description": "Is Mathnasium right for your child?",
+				"date": "2022-10-15",
+				"url": "https://www.mathnasium.com/survey"
+			}
+
+		]
+	}
+
+}
